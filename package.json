@@ -1,0 +1,19 @@
+{
+  "name": "ranuuid",
+  "version": "1.0.0",
+  "description": "This is for generating random 10 characters uuid for authentication and other things.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samiptwr/ranuuid.git"
+  },
+  "author": "Samip Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samiptwr/ranuuid/issues"
+  },
+  "homepage": "https://github.com/samiptwr/ranuuid#readme"
+}
