@@ -1,6 +1,6 @@
 {
   "name": "ranuuid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is for generating random 10 characters uuid for authentication and other things.",
   "main": "index.js",
   "scripts": {
