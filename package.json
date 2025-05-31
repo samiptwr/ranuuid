@@ -1,7 +1,7 @@
 {
   "name": "ranuuid",
   "version": "1.0.1",
-  "description": "This is for generating random 10 characters uuid for authentication and other things.",
+  "description": "This is for generating random uuid.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
