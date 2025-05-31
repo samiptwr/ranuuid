@@ -1,25 +1,24 @@
 # ranuuid
-**This is a simple package for *nodejs* to generate the uuid of your desired length for the fullfilment of requirement of unique id.**
+**A simple Node.js package to generate UUIDs of your desired length, providing unique IDs tailored to your needs.**
 
-## How to use
+## Installation
 
-First you have to install through npm via this command:
+Install the package via npm:
 
 ```bash
 npm i ranuuid 
 ```
 
-Then write this code to use in your project.
+## How to use
 
 ```javascript
 const ranuuid = require('ranuuid') //importing package
 
-const uuid = ranuuid.v12(20) //using v12 engine to generate. 20 represents the length of uuid.
+const uuid = ranuuid.v12(20) //generate 20 characters long uuid via v12 engine
 
 console.log(uuid)
 ```
 
-This will first import ranuuid package. Then 
-use our v12 engine to generate the random uuid. you can pass your desired length as a parameter.
+- you can specify the length you want by simply passing it as a parameter to ``` v12() ``` 
 
-** Now you are good to go! **
+**Now you are good to go!**
