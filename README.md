@@ -1,6 +1,8 @@
 # ranuuid
 **A simple Node.js package to generate UUIDs of your desired length, providing unique IDs tailored to your needs.**
 
+You can view this in https://www.npmjs.com/package/ranuuid
+
 ## Installation
 
 Install the package via npm:
